@@ -17,25 +17,25 @@ The written proposal must be submitted to the committee a minimum of one week be
 
 The proposal is organized in the following sections:
 
-Abstract: concisely written summary of the project that includes the problem statement, scope and objectives of the proposed work, methods to be used, expected results, and the potential significance of the study.
+* _**Abstract:**_ concisely written summary of the project that includes the problem statement, scope and objectives of the proposed work, methods to be used, expected results, and the potential significance of the study.
 
-Introduction_:_ general discussion of the topic area and problem statement; significance of the problem and impact of the proposed work; short statement about how the rest of the proposal is organized.
+* _**Introduction:**_ general discussion of the topic area and problem statement; significance of the problem and impact of the proposed work; short statement about how the rest of the proposal is organized.
 
-Scope **:** goals and objectives of the work to be performed; what work will be done.
+* _**Scope:**_ goals and objectives of the work to be performed; what work will be done.
 
-Background: presentation of background theory and information needed to solve the problem; it demonstrates that you fully understand the subject and are competent to undertake the proposed study.
+* _**Background:**_ presentation of background theory and information needed to solve the problem; it demonstrates that you fully understand the subject and are competent to undertake the proposed study.
 
-LiteratureReview: overview of the topic and what is already known; most recent research results related to the project to convince the reader that more research and study are necessary.
+* _**Literature Review:**_ overview of the topic and what is already known; most recent research results related to the project to convince the reader that more research and study are necessary.
 
-Methods: methods that will be used to complete the study with explanations of major steps of the study, assumptions made, and limitations of the methods.
+* _**Methods:**_ methods that will be used to complete the study with explanations of major steps of the study, assumptions made, and limitations of the methods.
 
-Expected Results **:** discussion of experiments already completed and what new results are expected; significance of the proposed work.
+* _**Expected Results:**_ discussion of experiments already completed and what new results are expected; significance of the proposed work.
 
-Work Plan/Timeline: timetable predicting the duration of each step in the process of performing the work and writing the thesis, including completion dates for each step.
+* _**Work Plan/Timeline:**_ timetable predicting the duration of each step in the process of performing the work and writing the thesis, including completion dates for each step.
 
-Required Resources_:_ resources needed to complete the project work.
+* _**Required Resources:**_ resources needed to complete the project work.
 
-References_:_ using ACM style.
+* _**References:**_ using ACM style.
 
 Criteria for evaluating a thesis proposal include: technical merit, relevance to existing subject knowledge, and clarity and conciseness.
 
