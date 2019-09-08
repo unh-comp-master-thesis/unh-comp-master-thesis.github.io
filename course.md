@@ -4,6 +4,8 @@ title: Course
 permalink: /course/
 ---
 
+**Master’s Thesis Course**
+
 To begin work on their master&#39;s thesis, students must complete 27 credits of coursework in the Information Technology graduate program. While research work is being completed, the student registers in the **COMP 899 Master&#39;s Thesis** course. Upon successful completion of the thesis, the faculty thesis advisor submits a **CR** grade for course.
 
 Master&#39;s students are allowed six credits maximum under COMP 899 for their program at UNH. If progress is made with the thesis work, but the thesis is not finalized at the end of the term, the thesis advisor submits an **IA grade**. To continue and complete the thesis in the following term, the student enrolls in the **GRAD 900 Master&#39;s Continuing Research** course with the approval of the thesis advisor. GRAD 900 course carries no credit but ensures that the student receives advising from their thesis advisor. Upon successful completion of the thesis, the thesis advisor submits a **CR** grade for the COMP 899 course.
