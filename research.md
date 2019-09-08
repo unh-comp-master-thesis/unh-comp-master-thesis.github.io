@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-### **Research Process**
+**Research Process**
 
 Working on your thesis project requires that you become familiar with the research methodology that specific to computing and engineering. A good illustration of what the process entails is offered in Fig.1, courtesy of Tomi Männistö, _Department of Computer Science, University of Helsinki_. More of Tomi&#39;s advice at [https://www.cs.helsinki.fi/u/tomimann/Instructions/MastersThesisInstructions.html](https://www.cs.helsinki.fi/u/tomimann/Instructions/MastersThesisInstructions.html)_._
 

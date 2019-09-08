@@ -4,7 +4,7 @@ title: Establish Committee
 permalink: /establish-committee/
 ---
 
-### **Establishing the Thesis Committee**
+**Establishing the Thesis Committee**
 
 A master&#39;s thesis has a committee of minimum three members. The chair and at least one other member must be members of the Information Technology graduate faculty.
 
