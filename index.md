@@ -8,5 +8,5 @@ layout: page
 <h1>Master’s Thesis Guidelines</h1>
 
 M.S. Information Technology<br />
-Applied Engineering and Sciences Department
+Applied Engineering and Sciences Department<br />
 Credits: 6
