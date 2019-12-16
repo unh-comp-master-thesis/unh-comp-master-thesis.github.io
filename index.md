@@ -9,3 +9,4 @@ layout: page
 
 M.S. Information Technology<br />
 Applied Engineering and Sciences Department
+Credits: 6
